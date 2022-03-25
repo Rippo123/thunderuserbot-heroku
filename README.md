@@ -1,4 +1,4 @@
-<p align="left"><a href="https://github.com/Thundergang/thunderuserbot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thundergang&show_icons=true&theme=dark&hide_border=true&repo=thunderuserbot-heroku"></a></p><p align="centre">
+<p align="left"><a href="https://github.com/Rippo123/thunderuserbot"><img src="https://github-readme-stats.vercel.app/api/pin?username=Thundergang&show_icons=true&theme=dark&hide_border=true&repo=thunderuserbot-heroku"></a></p><p align="centre">
 
 # Deploying on heroku
 
